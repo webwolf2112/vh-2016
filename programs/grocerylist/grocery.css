@@ -1,0 +1,18 @@
+body{
+
+	background: #e2e2e2;
+}
+
+input[type="submit"]{
+	
+	background-color: #f2f2f2;
+	border-radius: 5px;
+	border:none;
+	padding: .5em 2em;
+	display:block;
+	margin-top: 1%;
+	font-size 2em;
+	font-weight: 600;
+	color: #666;
+	text-transform: Uppercase;
+}

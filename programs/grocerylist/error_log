@@ -1,0 +1,12 @@
+[13-Aug-2014 02:08:30 UTC] PHP Fatal error:  Cannot redeclare changeUnit() (previously declared in /home/wolfyshield2112/public_html/programs/grocerylist/grocery-list.php:133) in /home/wolfyshield2112/public_html/programs/grocerylist/grocery-list.php on line 132
+[18-Aug-2014 16:07:38 UTC] PHP Fatal error:  Cannot redeclare switchFunction() (previously declared in /home/wolfyshield2112/public_html/programs/grocerylist/grocery-list.php:132) in /home/wolfyshield2112/public_html/programs/grocerylist/grocery-list.php on line 132
+[18-Aug-2014 16:08:42 UTC] PHP Fatal error:  Call to undefined function switchFunction() in /home/wolfyshield2112/public_html/programs/grocerylist/grocery-list.php on line 159
+[24-Aug-2014 15:12:27 UTC] PHP Fatal error:  Call to undefined function real_escape_string() in /home/wolfyshield2112/public_html/programs/grocerylist/grocery-list.php on line 192
+[24-Aug-2014 15:13:36 UTC] PHP Fatal error:  Call to undefined function real_escape_string() in /home/wolfyshield2112/public_html/programs/grocerylist/grocery-list.php on line 192
+[24-Aug-2014 15:13:47 UTC] PHP Fatal error:  Call to undefined function real_escape_string() in /home/wolfyshield2112/public_html/programs/grocerylist/grocery-list.php on line 192
+[24-Aug-2014 15:14:50 UTC] PHP Fatal error:  Call to undefined function real_escape_string() in /home/wolfyshield2112/public_html/programs/grocerylist/grocery-list.php on line 192
+[24-Aug-2014 15:15:51 UTC] PHP Fatal error:  Call to undefined function strip_tag() in /home/wolfyshield2112/public_html/programs/grocerylist/grocery-list.php on line 193
+[31-Aug-2014 21:43:40 UTC] PHP Fatal error:  Unsupported operand types in /home/wolfyshield2112/public_html/programs/grocerylist/grocery-list.php on line 318
+[02-Sep-2014 02:05:09 UTC] PHP Fatal error:  Maximum execution time of 120 seconds exceeded in /home/wolfyshield2112/public_html/programs/grocerylist/grocery-list.php on line 335
+[11-Sep-2014 14:04:48 UTC] PHP Fatal error:  Call to undefined function escape_string() in /home/wolfyshield2112/public_html/programs/grocerylist/grocery-list.php on line 347
+[14-Sep-2014 19:34:43 UTC] PHP Fatal error:  Undefined constant 'r' in /home/wolfyshield2112/public_html/programs/grocerylist/print-list.php on line 21
