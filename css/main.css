@@ -553,6 +553,10 @@ a.pink:hover{
 	background: black;
 }
 
+.middleBlack.portfollio {
+	padding-top: 16.5%;
+}
+
 .middleBlack h2{
 	cursor: pointer;
 }

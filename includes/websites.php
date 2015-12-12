@@ -1,7 +1,7 @@
 <div class="row post-its">
 
 	<!--  Portfollio site -->				
-				<div class="col-xs-6 col-sm-4 col-md-3">
+				<div class="col-xs-6 col-sm-4 ">
 					<div class="post-it">
 						<div class=" tape tape-top hidden-xs"><img src="img/tape-top.png" class="img-responsive" alt="tape"></div>
 						<img src="img/reebok.jpg" class="img-responsive" alt="Reebok" data-toggle="modal" data-target="#reebok">
@@ -31,7 +31,7 @@
 				</div>
 				
 <!--  Portfollio site -->				
-				<div class="col-xs-6 col-sm-4 col-md-3">
+				<div class="col-xs-6 col-sm-4 ">
 					<div class="post-it">
 						<div class=" tape tape-top hidden-xs"><img src="img/tape-top.png" class="img-responsive" alt="tape"></div>
 						<img src="img/crossfit.jpg" class="img-responsive" alt="Reebok Crossfit" data-toggle="modal" data-target="#reebokCrossfit">
@@ -45,7 +45,7 @@
 			
 				
 	<!--  Portfollio site -->				
-				<div class="col-xs-6 col-sm-4 col-md-3">
+				<div class="col-xs-6 col-sm-4 ">
 					<div class="post-it">
 						<div class=" tape tape-top hidden-xs"><img src="img/tape-top.png" class="img-responsive" alt="tape"></div>
 						<img src="img/crocs.jpg" class="img-responsive" alt="Crocs" data-toggle="modal" data-target="#crocs">
@@ -91,7 +91,7 @@
 				</div>
 				
 <!--  Portfollio site -->				
-				<div class="col-xs-6 col-sm-4 col-md-3">
+				<div class="col-xs-6 col-sm-4 ">
 					<div class="post-it">
 						<div class=" tape tape-top hidden-xs"><img src="img/tape-top.png" class="img-responsive" alt="tape"></div>
 						<img src="img/woodlandsvasc.jpg" class="img-responsive" alt="Woodlands Vascular" data-toggle="modal" data-target="#woodlandsVasc">
@@ -140,7 +140,7 @@
 
 
 		<!--  Portfollio site -->				
-				<div class="col-xs-6 col-sm-4 col-md-3">
+				<div class="col-xs-6 col-sm-4 ">
 					<div class="post-it">
 						<div class=" tape tape-top hidden-xs"><img src="img/tape-top.png" class="img-responsive" alt="tape"></div>
 						<img src="img/bigchill.jpg" class="img-responsive" alt="Big Chill" data-toggle="modal" data-target="#bigchill">
@@ -155,7 +155,7 @@
 			
 				
 				<!--  Portfollio site -->				
-				<div class="col-xs-6 col-sm-4 col-md-3">
+				<div class="col-xs-6 col-sm-4 ">
 					<div class="post-it">
 						<div class=" tape tape-top hidden-xs"><img src="img/tape-top.png" class="img-responsive" alt="tape"></div>
 						<img src="img/voltage.jpg" class="img-responsive" alt="Voltage" data-toggle="modal" data-target="#voltage">
@@ -186,7 +186,7 @@
 
 
 	<!--  Portfollio site -->				
-				<div class="col-xs-6 col-sm-4 col-md-3">
+				<div class="col-xs-6 col-sm-4 ">
 					<div class="post-it">
 						<div class=" tape tape-top hidden-xs"><img src="img/tape-top.png" class="img-responsive" alt="tape"></div>
 						<img src="img/clearchoice.jpg" class="img-responsive" alt="Clear Choice Dental" data-toggle="modal" data-target="#clear-choice">
@@ -216,7 +216,7 @@
 				</div>
 				
 				<!--  Portfollio site -->				
-				<div class="col-xs-6 col-sm-4 col-md-3">
+				<div class="col-xs-6 col-sm-4 ">
 					<div class="post-it">
 						<div class=" tape tape-top hidden-xs"><img src="img/tape-top.png" class="img-responsive" alt="tape"></div>
 						<img src="img/rare.jpg" class="img-responsive" alt="Rare Italian" data-toggle="modal" data-target="#rare">
@@ -246,7 +246,7 @@
 				</div>
 				
 				<!--  Portfollio site -->				
-				<div class="col-xs-6 col-sm-4 col-md-3">
+				<div class="col-xs-6 col-sm-4 ">
 					<div class="post-it">
 						<div class=" tape tape-top hidden-xs"><img src="img/tape-top.png" class="img-responsive" alt="tape"></div>
 						<img src="img/pillar.jpg" class="img-responsive" alt="Pillar Companies" data-toggle="modal" data-target="#pillar">
@@ -276,7 +276,7 @@
 				</div>
 				
 				<!--  Portfollio site -->	
-				<div class="col-xs-6 col-sm-4 col-md-3">
+				<div class="col-xs-6 col-sm-4 ">
 					<div class="post-it">
 						<div class=" tape tape-top hidden-xs"><img src="img/tape-top.png" class="img-responsive" alt="tape"></div>
 						<img src="img/chc.png" alt="Colorado Hazard" class="img-responsive" data-toggle="modal" data-target="#chc">
@@ -309,7 +309,7 @@
 
 
 			<!--  Portfollio site -->				
-				<div class="col-xs-6 col-sm-4 col-md-3">
+				<div class="col-xs-6 col-sm-4 ">
 					<div class="post-it">
 						<div class=" tape tape-top hidden-xs"><img src="img/tape-top.png" class="img-responsive" alt="tape"></div>
 						<img src="img/john.png" class="img-responsive" alt="J-Maco Boulder" data-toggle="modal" data-target="#j-maco">
@@ -340,7 +340,7 @@
 				
 				
 				<!--  Portfollio site -->			
-				<div class="col-xs-6 col-sm-4 col-md-3">
+				<div class="col-xs-6 col-sm-4 ">
 					<div class="post-it">
 					<div class=" tape tape-top hidden-xs"><img src="img/tape-top.png" class="img-responsive" alt="tape"></div>
 						<img src="img/lynnRyan.png" alt="Lynn Ryan Boulder" class="img-responsive" data-toggle="modal" data-target="#lynn">
@@ -369,7 +369,7 @@
 				</div>
 				
 				<!--  Portfollio site -->				
-				<div class="col-xs-6 col-sm-4 col-md-3">
+				<div class="col-xs-6 col-sm-4 ">
 					<div class="post-it">
 						<div class=" tape tape-top hidden-xs"><img src="img/tape-top.png" class="img-responsive" alt="tape"></div>
 						<img src="img/abinstall.jpg" class="img-responsive" alt="AB Installations" data-toggle="modal" data-target="#abinstall">
@@ -400,7 +400,7 @@
 								
 					 
 				<!-- Portfollio Site -->		  
-				 <div class="col-xs-6 col-sm-4 col-md-3">
+				 <div class="col-xs-6 col-sm-4 ">
 				 	<div class="post-it">
 				 	  <div class=" tape tape-top hidden-xs"><img src="img/tape-top.png" class="img-responsive" alt="tape"></div>
 					  <img src="img/kidder.png" alt="Kidder Plus" class="img-responsive" data-toggle="modal" data-target="#kidder">
@@ -429,7 +429,7 @@
 
 				
 				<!-- Portfollio Site -->		 
-				<div class="col-xs-6 col-sm-4 col-md-3">
+				<div class="col-xs-6 col-sm-4 ">
 					<div class="post-it">
 					<div class=" tape tape-top hidden-xs"><img src="img/tape-top.png" class="img-responsive" alt="tape"></div>
 						<img src="img/allegro.png"  alt="Allegro Coffee" class="img-responsive" data-toggle="modal" data-target="#allegro">
@@ -458,7 +458,7 @@
 					
 					
 				<!-- Portfollio Site -->	
-				<div class="col-xs-6 col-sm-4 col-md-3">
+				<div class="col-xs-6 col-sm-4 ">
 					<div class="post-it">
 						
 						<div class=" tape tape-top hidden-xs"><img src="img/tape-top.png" class="img-responsive" alt="tape"></div>
@@ -488,7 +488,7 @@
 					
 				
 				<!-- Portfollio Site -->		   	 
-				<div class="col-xs-6 col-sm-4 col-md-3">
+				<div class="col-xs-6 col-sm-4 ">
 					<div class="post-it">
 						<div class=" tape tape-top hidden-xs"><img src="img/tape-top.png" class="img-responsive" alt="tape"></div>
 						<img src="img/sentient.png" class="img-responsive" alt="Senitent Lasers" data-toggle="modal" data-target="#senitent">
@@ -517,7 +517,7 @@
 				
 				
 					<!-- Portfollio Site -->			  
-				<div class="col-xs-6 col-sm-4 col-md-3">
+				<div class="col-xs-6 col-sm-4 ">
 					<div class="post-it">
 						<div class=" tape tape-top hidden-xs"><img src="img/tape-top.png" class="img-responsive" alt="tape"></div>
 					 	<img src="img/uasg.png" class="img-responsive" alt="UASG" data-toggle="modal" data-target="#uasg">
@@ -547,7 +547,7 @@
 	
 				
 				<!-- Portfollio Site -->		 
-				<div class="col-xs-6 col-sm-4 col-md-3">
+				<div class="col-xs-6 col-sm-4 ">
 					<div class="post-it">
 						  <div class=" tape tape-top hidden-xs"><img src="img/tape-top.png" class="img-responsive" alt="tape"></div>
 						  <img src="img/emg.png" class="img-responsive" alt="EMG Colorado" data-toggle="modal" data-target="#emg">
@@ -576,7 +576,7 @@
 
 				
 					<!-- Portfollio Site -->	
-					<div class="col-xs-6 col-sm-4 col-md-3">
+					<div class="col-xs-6 col-sm-4 ">
 					<div class="post-it">
 						<div class=" tape tape-top hidden-xs"><img src="img/tape-top.png" class="img-responsive" alt="tape"></div>
 					 	<img src="img/titanLiquors.png" class="img-responsive" alt="Tiger Liquors" data-toggle="modal" data-target="#tiger">

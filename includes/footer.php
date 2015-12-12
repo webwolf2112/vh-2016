@@ -6,10 +6,10 @@
 		<div class="container footer">
 			<div class="row">
 			<ul>		 
-						<li><a href="/index.php">Home</a></li>
-				    	<li><a href="/contact.php">  My Skills  </a></li>
-				    	<li><a href="/about.php"> About Me</a></li>
-				    	<li><a href="/portfollio.php"> Portfollio</a></li>
+						<li><a href="index.php">Home</a></li>
+				    	<li><a href="contact.php">  My Skills  </a></li>
+				    	<li><a href="about.php"> About Me</a></li>
+				    	<li><a href="portfollio.php"> Portfollio</a></li>
 				    	
 				    
 				  	</ul>

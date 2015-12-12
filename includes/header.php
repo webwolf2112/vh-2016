@@ -25,7 +25,7 @@
     
     <!-- quote script -->
     <?php if($nav != 'index'){ ?>
-     	<script src="/js/main.js"></script>
+     	<script src="js/main.js"></script>
     <? } ?>
     
     

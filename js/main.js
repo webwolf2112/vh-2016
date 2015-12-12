@@ -10,17 +10,20 @@ randomQuote[4]	= "&quotAt the end of the day, let there be no excuses, no explan
 
 var randomNumber = Math.floor(Math.random() * randomQuote.length);	
 
-setInterval("somerandom()", 4000);
-
-
 function somerandom(){
+
+	randomNumber = Math.floor(Math.random() * randomQuote.length);
  	
 	document.getElementById("quote").innerHTML=randomQuote[randomNumber];
-	randomNumber = Math.floor(Math.random() * randomQuote.length);	
+		
 	
-
-
 } 
+
+
+setInterval("somerandom()", 3000);
+
+
+
 
  
 

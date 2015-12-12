@@ -13,40 +13,18 @@ include('includes/header.php'); ?>
 	});
 </script>
 
- 
 
-		   
-	<section class="middleBlack"> 
-	
-	
 
-	
-		<div class="container portfollio"> 
 		
+	<section class="middleBlack portfollio"> 
+		<div class="container "> 
 		
+			<? include("includes/websites.php") ?>
 	 
  
  		<div class="middleWeb">
 		   <div class="row">
-			  		
-			  			<div class="col-xs-6 hidden-sm col-md-3">
-			  	  		<div class="codeExample">
-			  				<img src="img/postIt.png" alt="Vanessa Henson">
-			  				<div class="post-text">
-			  				<a href="https://github.com/webwolf2112/codeExamples/blob/master/stickySlider.js" target="blank">
-			  					<p class="post-heading">Responsive JQuery</p>
-			  					<p class="post-body">Sticky Slider</p>
-			  					</a>
-			  					<div class="line">
-			  					<img src="img/line.png" class="img-responsive" alt="vanessa henson">
-			  					<p class="post-bottom"><a href="http://www.coloradohazard.com/course-descriptions.php" target="blank">View On Live Site</a></p>
-			  					</div>
-			  				</div>
-			  				
-			  			</div>
-			  		</div> 
-			  		
-			  		<div class="col-xs-6 col-sm-4 col-md-3">
+			  		<div class="col-xs-6 col-sm-4 ">
 			  	  		<div class="codeExample">
 			  				<a href="https://github.com/webwolf2112/codeExamples" target="blank"><img src="img/postIt.png" alt="Vanessa Henson">
 			  				<div class="post-text">
@@ -60,11 +38,11 @@ include('includes/header.php'); ?>
 			  			</div>
 			  		</div> 
 			  		
-			  		<div class="col-xs-6 col-sm-4 col-md-3">
+			  		<div class="col-xs-6 col-sm-4 ">
 			  	  		<div class="codeExample">
 			  				<a class="lightbox" href="img/1940sGirlLarge.png" data-lightbox-gallery="gallery1"><img src="img/postItPink.png" alt="Vanessa Henson">
 			  				<div class="post-text no-heading">
-			  					<p class="post-body">Graphics<br/> Gallery!</p>
+			  					<p class="post-body">Graphics<br/> Gallery</p>
 			  					<div class="line">
 			  					<img src="img/line.png" class="img-responsive" alt="vanessa henson">
 			  					</div>
@@ -80,7 +58,7 @@ include('includes/header.php'); ?>
 			  			</div>
 			  		</div>
 			  		
-			  			<div class="col-xs-6 col-sm-4 col-md-3">
+			  			<div class="col-xs-6 col-sm-4">
 			  	  		<div class="codeExample">
 			  				<a class="lightbox" href="img/banners/axiom.png" data-lightbox-gallery="gallery3"><img src="img/postItPink.png" alt="Vanessa Henson">
 					  				<div class="post-text no-heading"> 
@@ -108,7 +86,7 @@ include('includes/header.php'); ?>
 
 		   </div>
 			
-					<? include("includes/websites.php") ?>
+				
 					</div>
 	 </div>
 	

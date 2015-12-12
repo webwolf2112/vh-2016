@@ -51,7 +51,7 @@ include('includes/header.php'); ?>
 	    <ul>
 	    	<li>Responsive Design and
 Development</li>
-	    	<li>Advanced Troubleshooting/li>
+	    	<li>Advanced Troubleshooting</li>
 	    	<li>Highly Motivated</li>
 	    	<li>Passion for Learning</li>
 	    	<li>Creative Problem Solving</li>
