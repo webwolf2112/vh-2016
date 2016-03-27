@@ -1,7 +1,63 @@
 <div class="row post-its">
 
+<!--  Portfollio site -->				
+				<div class="col-xs-6 col-sm-3 ">
+					<div class="post-it">
+						<div class=" tape tape-top hidden-xs"><img src="img/tape-top.png" class="img-responsive" alt="tape"></div>
+						<img src="img/rita.jpg" class="img-responsive" alt="Rita" data-toggle="modal" data-target="#Rita">
+						<div class=" tape tape-bottom hidden-xs"><img src="img/tape-bottom.png" class="img-responsive" alt="tape"></div>
+						<p class="popover-top" data-trigger="hover" data-toggle="popover" data-content="Click on Image for More Info, click on link to take you to the website" ><a href="http://Ritahazan.com" target="blank">Rita Hazan</a></p>
+					</div>
+				</div>
+				
+				<!-- Portfollio site Modal -->
+				<div class="modal fade" id="Rita" tabindex="-1" role="dialog" aria-labelledby="modalRita" aria-hidden="true">
+				  <div class="modal-dialog">
+				    <div class="modal-content">
+				      <div class="modal-header">
+				        <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
+				        <h4 class="modal-title" id="modalRita">Rita Hazan</h4>
+				      </div>
+				      <div class="modal-body">
+				      <p>I was the the sole developer on this custom shopify website.  I implemented pixel perfect designs as well as stretching the boundries of Shopify by creating very customized complex functionality. I worked to create numerous custom Shopify templates, and wrote custom code with Liquid, Javascript, JSON, HTML and CSS.</p>
+				      </div>
+				      <div class="modal-footer">
+				        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+				      </div>
+				    </div>
+				  </div>
+				</div>
+
 	<!--  Portfollio site -->				
-				<div class="col-xs-6 col-sm-4 ">
+				<div class="col-xs-6 col-sm-3 ">
+					<div class="post-it">
+						<div class=" tape tape-top hidden-xs"><img src="img/tape-top.png" class="img-responsive" alt="tape"></div>
+						<img src="img/anschutz.jpg" class="img-responsive" alt="Anschutz" data-toggle="modal" data-target="#Anschutz">
+						<div class=" tape tape-bottom hidden-xs"><img src="img/tape-bottom.png" class="img-responsive" alt="tape"></div>
+						<p class="popover-top" data-trigger="hover" data-toggle="popover" data-content="Click on Image for More Info, click on link to take you to the website" ><a href="http://supportcuanschutz.ucdenver.edu/" target="blank">CU Anschutz Micro-site</a></p>
+					</div>
+				</div>
+				
+				<!-- Portfollio site Modal -->
+				<div class="modal fade" id="Anschutz" tabindex="-1" role="dialog" aria-labelledby="modalAnschutz" aria-hidden="true">
+				  <div class="modal-dialog">
+				    <div class="modal-content">
+				      <div class="modal-header">
+				        <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
+				        <h4 class="modal-title" id="modalAnschutz">CU Anschutz Micro-Site</h4>
+				      </div>
+				      <div class="modal-body">
+				      <p>I worked with my team to create this pixel perfect responsive Micro-Site.  This design required very complex CSS for the sliders, as well as very complex data structure. The client was very satisfied. I wrote custom PHP, Javascript, HTML, and CSS for this project. </p>
+				      </div>
+				      <div class="modal-footer">
+				        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+				      </div>
+				    </div>
+				  </div>
+				</div>
+
+	<!--  Portfollio site -->				
+				<div class="col-xs-6 col-sm-3 ">
 					<div class="post-it">
 						<div class=" tape tape-top hidden-xs"><img src="img/tape-top.png" class="img-responsive" alt="tape"></div>
 						<img src="img/reebok.jpg" class="img-responsive" alt="Reebok" data-toggle="modal" data-target="#reebok">
@@ -10,7 +66,6 @@
 					</div>
 				</div>
 				
-	
 				
 				<!-- Portfollio site Modal -->
 				<div class="modal fade" id="reebok" tabindex="-1" role="dialog" aria-labelledby="modalReebok" aria-hidden="true">
@@ -21,7 +76,7 @@
 				        <h4 class="modal-title" id="modalReebok">Reebok</h4>
 				      </div>
 				      <div class="modal-body">
-				      <p>I have done numerous projects including their Crossfit and Honorpack landing pages as well as a homepage redesign for the Superbowl 2015 commercial. These projects involved CSS3 transitions, custom JQuery, responsive design, and pixel perfect implementation. I was also in charge of implementing a redesign of their shop page using pure CSS without being able to edit the existing code. I am currently working on my additional projects I can not disclose.  </p>
+				      <p>I have been the lead developer on numerous projects with Reebok and have custom code on nearly every page on the the current Reebok website.  I was in charge of the Superbowl Add Homepage redesign, Athletes Pages, UFC launch pages, and numerous landing pages.  I wrote extensive custom Javascript for all of these projects, as well as HTML, JSON, and CSS.</p>
 				      </div>
 				      <div class="modal-footer">
 				        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
@@ -31,7 +86,7 @@
 				</div>
 				
 <!--  Portfollio site -->				
-				<div class="col-xs-6 col-sm-4 ">
+				<div class="col-xs-6 col-sm-3 ">
 					<div class="post-it">
 						<div class=" tape tape-top hidden-xs"><img src="img/tape-top.png" class="img-responsive" alt="tape"></div>
 						<img src="img/crossfit.jpg" class="img-responsive" alt="Reebok Crossfit" data-toggle="modal" data-target="#reebokCrossfit">
@@ -41,11 +96,27 @@
 				</div>
 							
 	
-				
+				<!-- Portfollio site Modal -->
+				<div class="modal fade" id="reebokCrossfit" tabindex="-1" role="dialog" aria-labelledby="modalReebok" aria-hidden="true">
+				  <div class="modal-dialog">
+				    <div class="modal-content">
+				      <div class="modal-header">
+				        <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
+				        <h4 class="modal-title" id="modalreebokCrossfit">Crossfit Store by Reebok</h4>
+				      </div>
+				      <div class="modal-body">
+				      <p>I was in charge of creating the new website header and footer. I created most of the code on the current homepage, including the masthead, hover product sections and the hover image changer.  I wrote custom Javascript, HTML and CSS for this project.</p>
+				      </div>
+				      <div class="modal-footer">
+				        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+				      </div>
+				    </div>
+				  </div>
+				</div>
 			
 				
 	<!--  Portfollio site -->				
-				<div class="col-xs-6 col-sm-4 ">
+				<div class="col-xs-6 col-sm-3 ">
 					<div class="post-it">
 						<div class=" tape tape-top hidden-xs"><img src="img/tape-top.png" class="img-responsive" alt="tape"></div>
 						<img src="img/crocs.jpg" class="img-responsive" alt="Crocs" data-toggle="modal" data-target="#crocs">
@@ -63,7 +134,7 @@
 				        <h4 class="modal-title" id="modalCrocs">Crocs</h4>
 				      </div>
 				      <div class="modal-body">
-				      <p>I wrote custom html, css, and javascript for their navigation menu, and landing pages and implemented it on their demandware platform.I also coded several elements of their Brazil site and fixed errors in an outsourced developers code to fix their website. </p>
+				      <p>I wrote custom HTML, CSS, and Javascript for their navigation Mega  Menu, and landing pages and implemented it on their demandware platform. I also coded several elements of their <a href="http://crocs.com.br/" target="blank" >Brazil site </a> and fixed errors from outsourced. </p>
 				      </div>
 				      <div class="modal-footer">
 				        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
@@ -72,26 +143,10 @@
 				  </div>
 				</div>
 				
-							<!-- Portfollio site Modal -->
-				<div class="modal fade" id="reebok" tabindex="-1" role="dialog" aria-labelledby="modalReebok" aria-hidden="true">
-				  <div class="modal-dialog">
-				    <div class="modal-content">
-				      <div class="modal-header">
-				        <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
-				        <h4 class="modal-title" id="modalReebok">Reebok</h4>
-				      </div>
-				      <div class="modal-body">
-				      <p>I have done numerous projects including their Crossfit and Honorpack landing pages as well as a homepage redesign for the Superbowl 2015 commercial. These projects involved CSS3 transitions, custom JQuery, responsive design, and pixel perfect implementation. I was also in charge of implementing a redesign of their shop page using pure CSS without being able to edit the existing code. I am currently working on my additional projects I can not disclose.  </p>
-				      </div>
-				      <div class="modal-footer">
-				        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
-				      </div>
-				    </div>
-				  </div>
-				</div>
+
 				
 <!--  Portfollio site -->				
-				<div class="col-xs-6 col-sm-4 ">
+				<div class="col-xs-6 col-sm-3 ">
 					<div class="post-it">
 						<div class=" tape tape-top hidden-xs"><img src="img/tape-top.png" class="img-responsive" alt="tape"></div>
 						<img src="img/woodlandsvasc.jpg" class="img-responsive" alt="Woodlands Vascular" data-toggle="modal" data-target="#woodlandsVasc">
@@ -110,13 +165,24 @@
 				        <h4 class="modal-title" id="modalReebokCrossfit">Woodlands Vascular</h4>
 				      </div>
 				      <div class="modal-body">
-				      <p>I developed and implemented this fully responsive website using a Wordpress Child Theme. </p>
+				      <p>I was the sole developer on this custom website.  I implemented pixel perfect code from our internal designer. I wrote custom PHP, Javascript, HTML, and CSS for this website.</p>
 				      </div>
 				      <div class="modal-footer">
 				        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
 				      </div>
 				    </div>
 				  </div>
+				</div>
+
+
+	<!--  Portfollio site -->				
+				<div class="col-xs-6 col-sm-3 ">
+					<div class="post-it">
+						<div class=" tape tape-top hidden-xs"><img src="img/tape-top.png" class="img-responsive" alt="tape"></div>
+						<img src="img/bigchill.jpg" class="img-responsive" alt="Big Chill" data-toggle="modal" data-target="#bigchill">
+						<div class=" tape tape-bottom hidden-xs"><img src="img/tape-bottom.png" class="img-responsive" alt="tape"></div>
+						<p class="popover-top" data-trigger="hover" data-toggle="popover" data-content="Click on Image for More Info, click on link to take you to the website" ><a href="http://bigchill.com" target="blank">Big Chill</a></p>
+					</div>
 				</div>
 				
 					<!-- Portfollio site Modal -->
@@ -128,7 +194,7 @@
 				        <h4 class="modal-title" id="modalBigChill">Big Chill</h4>
 				      </div>
 				      <div class="modal-body">
-				      <p>I am in charge of updates, edits and redesigns on this website per client requests.  I wrote several custom pages, including their Retro Page, Pro Page, and Press Page. When making changes I am able to successfully troubleshoot senior level developers code and I am able to implement all necessary changes.</p>
+				      <p>I am in charge of updates, edits and redesigns on this website per client requests. I also worked on transforming this static website to a responsive site.  I wrote several custom pages, including their Retro Page, Pro Page, and Press Page. I have written custom PHP, Javascript, HTML and CSS for this website.</p>
 				      </div>
 				      <div class="modal-footer">
 				        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
@@ -138,24 +204,8 @@
 				</div>
 
 
-
-		<!--  Portfollio site -->				
-				<div class="col-xs-6 col-sm-4 ">
-					<div class="post-it">
-						<div class=" tape tape-top hidden-xs"><img src="img/tape-top.png" class="img-responsive" alt="tape"></div>
-						<img src="img/bigchill.jpg" class="img-responsive" alt="Big Chill" data-toggle="modal" data-target="#bigchill">
-						<div class=" tape tape-bottom hidden-xs"><img src="img/tape-bottom.png" class="img-responsive" alt="tape"></div>
-						<p class="popover-top" data-trigger="hover" data-toggle="popover" data-content="Click on Image for More Info, click on link to take you to the website" ><a href="http://bigchill.com" target="blank">Big Chill</a></p>
-					</div>
-				</div>
-
-				
-	
-				
-			
-				
 				<!--  Portfollio site -->				
-				<div class="col-xs-6 col-sm-4 ">
+				<div class="col-xs-6 col-sm-3 ">
 					<div class="post-it">
 						<div class=" tape tape-top hidden-xs"><img src="img/tape-top.png" class="img-responsive" alt="tape"></div>
 						<img src="img/voltage.jpg" class="img-responsive" alt="Voltage" data-toggle="modal" data-target="#voltage">
@@ -175,7 +225,7 @@
 				        <h4 class="modal-title" id="modalVoltage">Voltage Advertising & Design</h4>
 				      </div>
 				      <div class="modal-body">
-				      <p>I was in charge of implementing many elements and pages of this website.  I had coded the Services page, and Blog pages as well as many aspects of the Clients pages, and the navigation.  This Wordpress website uses advanced custom fields as well as very complex custom code.  </p>
+				      <p>I was in charge of implementing many elements and pages of this website.  I coded the Services page, and Blog pages as well as many aspects of the Clients pages, and the navigation.  This Wordpress website uses advanced custom fields as well as very complex custom code.  I wrote custom PHP, Javascript, HTML, and CSS on this website.</p>
 				      </div>
 				      <div class="modal-footer">
 				        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
@@ -186,7 +236,7 @@
 
 
 	<!--  Portfollio site -->				
-				<div class="col-xs-6 col-sm-4 ">
+				<div class="col-xs-6 col-sm-3 ">
 					<div class="post-it">
 						<div class=" tape tape-top hidden-xs"><img src="img/tape-top.png" class="img-responsive" alt="tape"></div>
 						<img src="img/clearchoice.jpg" class="img-responsive" alt="Clear Choice Dental" data-toggle="modal" data-target="#clear-choice">
@@ -216,7 +266,7 @@
 				</div>
 				
 				<!--  Portfollio site -->				
-				<div class="col-xs-6 col-sm-4 ">
+				<div class="col-xs-6 col-sm-3 ">
 					<div class="post-it">
 						<div class=" tape tape-top hidden-xs"><img src="img/tape-top.png" class="img-responsive" alt="tape"></div>
 						<img src="img/rare.jpg" class="img-responsive" alt="Rare Italian" data-toggle="modal" data-target="#rare">
@@ -236,7 +286,7 @@
 				        <h4 class="modal-title" id="modalJohn">Rare Italian</h4>
 				      </div>
 				      <div class="modal-body">
-				      <p>I was in charge of many custom edits and elements of this custom Wordpress website. </p>
+				      <p>I was in charge of many custom edits and elements of this custom Wordpress website. I wrote custom Javascript for this website.</p>
 				      </div>
 				      <div class="modal-footer">
 				        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
@@ -246,7 +296,7 @@
 				</div>
 				
 				<!--  Portfollio site -->				
-				<div class="col-xs-6 col-sm-4 ">
+				<div class="col-xs-6 col-sm-3 ">
 					<div class="post-it">
 						<div class=" tape tape-top hidden-xs"><img src="img/tape-top.png" class="img-responsive" alt="tape"></div>
 						<img src="img/pillar.jpg" class="img-responsive" alt="Pillar Companies" data-toggle="modal" data-target="#pillar">
@@ -266,7 +316,7 @@
 				        <h4 class="modal-title" id="modalJohn">Pillar Companies</h4>
 				      </div>
 				      <div class="modal-body">
-				      <p>I developed and implemented this fully responsive website using a Wordpress Child Theme. </p>
+				      <p>I was the sole developer on this project and implemented this fully responsive website.  I wrote custom PHP, Javascript, HTML and CSS for this website.</p>
 				      </div>
 				      <div class="modal-footer">
 				        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
@@ -276,7 +326,7 @@
 				</div>
 				
 				<!--  Portfollio site -->	
-				<div class="col-xs-6 col-sm-4 ">
+				<div class="col-xs-6 col-sm-3 ">
 					<div class="post-it">
 						<div class=" tape tape-top hidden-xs"><img src="img/tape-top.png" class="img-responsive" alt="tape"></div>
 						<img src="img/chc.png" alt="Colorado Hazard" class="img-responsive" data-toggle="modal" data-target="#chc">
@@ -309,7 +359,7 @@
 
 
 			<!--  Portfollio site -->				
-				<div class="col-xs-6 col-sm-4 ">
+				<div class="col-xs-6 col-sm-3 ">
 					<div class="post-it">
 						<div class=" tape tape-top hidden-xs"><img src="img/tape-top.png" class="img-responsive" alt="tape"></div>
 						<img src="img/john.png" class="img-responsive" alt="J-Maco Boulder" data-toggle="modal" data-target="#j-maco">
@@ -340,7 +390,7 @@
 				
 				
 				<!--  Portfollio site -->			
-				<div class="col-xs-6 col-sm-4 ">
+				<div class="col-xs-6 col-sm-3 ">
 					<div class="post-it">
 					<div class=" tape tape-top hidden-xs"><img src="img/tape-top.png" class="img-responsive" alt="tape"></div>
 						<img src="img/lynnRyan.png" alt="Lynn Ryan Boulder" class="img-responsive" data-toggle="modal" data-target="#lynn">
@@ -369,7 +419,7 @@
 				</div>
 				
 				<!--  Portfollio site -->				
-				<div class="col-xs-6 col-sm-4 ">
+				<div class="col-xs-6 col-sm-3 ">
 					<div class="post-it">
 						<div class=" tape tape-top hidden-xs"><img src="img/tape-top.png" class="img-responsive" alt="tape"></div>
 						<img src="img/abinstall.jpg" class="img-responsive" alt="AB Installations" data-toggle="modal" data-target="#abinstall">
@@ -400,7 +450,7 @@
 								
 					 
 				<!-- Portfollio Site -->		  
-				 <div class="col-xs-6 col-sm-4 ">
+				 <div class="col-xs-6 col-sm-3 ">
 				 	<div class="post-it">
 				 	  <div class=" tape tape-top hidden-xs"><img src="img/tape-top.png" class="img-responsive" alt="tape"></div>
 					  <img src="img/kidder.png" alt="Kidder Plus" class="img-responsive" data-toggle="modal" data-target="#kidder">
@@ -429,7 +479,7 @@
 
 				
 				<!-- Portfollio Site -->		 
-				<div class="col-xs-6 col-sm-4 ">
+				<div class="col-xs-6 col-sm-3 ">
 					<div class="post-it">
 					<div class=" tape tape-top hidden-xs"><img src="img/tape-top.png" class="img-responsive" alt="tape"></div>
 						<img src="img/allegro.png"  alt="Allegro Coffee" class="img-responsive" data-toggle="modal" data-target="#allegro">
@@ -458,7 +508,7 @@
 					
 					
 				<!-- Portfollio Site -->	
-				<div class="col-xs-6 col-sm-4 ">
+				<div class="col-xs-6 col-sm-3 ">
 					<div class="post-it">
 						
 						<div class=" tape tape-top hidden-xs"><img src="img/tape-top.png" class="img-responsive" alt="tape"></div>
@@ -488,7 +538,7 @@
 					
 				
 				<!-- Portfollio Site -->		   	 
-				<div class="col-xs-6 col-sm-4 ">
+				<div class="col-xs-6 col-sm-3 ">
 					<div class="post-it">
 						<div class=" tape tape-top hidden-xs"><img src="img/tape-top.png" class="img-responsive" alt="tape"></div>
 						<img src="img/sentient.png" class="img-responsive" alt="Senitent Lasers" data-toggle="modal" data-target="#senitent">
@@ -517,7 +567,7 @@
 				
 				
 					<!-- Portfollio Site -->			  
-				<div class="col-xs-6 col-sm-4 ">
+				<div class="col-xs-6 col-sm-3 ">
 					<div class="post-it">
 						<div class=" tape tape-top hidden-xs"><img src="img/tape-top.png" class="img-responsive" alt="tape"></div>
 					 	<img src="img/uasg.png" class="img-responsive" alt="UASG" data-toggle="modal" data-target="#uasg">
@@ -547,7 +597,7 @@
 	
 				
 				<!-- Portfollio Site -->		 
-				<div class="col-xs-6 col-sm-4 ">
+				<div class="col-xs-6 col-sm-3 ">
 					<div class="post-it">
 						  <div class=" tape tape-top hidden-xs"><img src="img/tape-top.png" class="img-responsive" alt="tape"></div>
 						  <img src="img/emg.png" class="img-responsive" alt="EMG Colorado" data-toggle="modal" data-target="#emg">
@@ -573,36 +623,5 @@
 				    </div>
 				  </div>
 				</div>
-
-				
-					<!-- Portfollio Site -->	
-					<div class="col-xs-6 col-sm-4 ">
-					<div class="post-it">
-						<div class=" tape tape-top hidden-xs"><img src="img/tape-top.png" class="img-responsive" alt="tape"></div>
-					 	<img src="img/titanLiquors.png" class="img-responsive" alt="Tiger Liquors" data-toggle="modal" data-target="#tiger">
-					 	<div class=" tape tape-bottom hidden-xs"><img src="img/tape-bottom.png" class="img-responsive" alt="tape"></div>
-					 	<p class="popover-top" data-trigger="hover" data-toggle="popover" data-content="Click on Image for More Info, click on link to take you to the website" ><a href="http://tigerliquors.com/" target="blank">Tiger Liquors</a></p>
-					 </div>
-				</div>
-				
-				<!-- Portfollio site Modal -->
-				<div class="modal fade" id="tiger" tabindex="-1" role="dialog" aria-labelledby="modalTiger" aria-hidden="true">
-				  <div class="modal-dialog">
-				    <div class="modal-content">
-				      <div class="modal-header">
-				        <button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
-				        <h4 class="modal-title" id="modalTiger">Tiger Liquors</h4>
-				      </div>
-				      <div class="modal-body">
-				      <p>I both designed and implemented this Wordpress website. I successfully implement this website with a custom child theme, and Wordpress plugins.</p>
-				      </div>
-				      <div class="modal-footer">
-				        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
-				      </div>
-				    </div>
-				  </div>
-				</div>
-
-					  
-					  
+				  
 </div>
