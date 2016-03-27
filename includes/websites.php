@@ -113,7 +113,8 @@
 				    </div>
 				  </div>
 				</div>
-			
+</div>
+<div class="row">			
 				
 	<!--  Portfollio site -->				
 				<div class="col-xs-6 col-sm-3 ">
@@ -233,7 +234,8 @@
 				    </div>
 				  </div>
 				</div>
-
+</div>
+<div class="row">
 
 	<!--  Portfollio site -->				
 				<div class="col-xs-6 col-sm-3 ">
@@ -355,7 +357,8 @@
 
 
 				
-				
+</div>
+<div class="row">				
 
 
 			<!--  Portfollio site -->				
@@ -595,7 +598,8 @@
 				  </div>
 				</div>
 	
-				
+</div>
+<div class="row">				
 				<!-- Portfollio Site -->		 
 				<div class="col-xs-6 col-sm-3 ">
 					<div class="post-it">

@@ -39,7 +39,7 @@ include('includes/header.php'); ?>
  
  		<div class="middleWeb">
 		   <div class="row">
-			  		<div class="col-xs-6 col-sm-3 ">
+			  		<div class="col-xs-6 col-sm-4 col-md-3 ">
 			  	  		<div class="codeExample">
 			  				<a href="https://github.com/webwolf2112/codeExamples" target="blank"><img src="img/postIt.png" alt="Vanessa Henson">
 			  				<div class="post-text">
@@ -53,7 +53,7 @@ include('includes/header.php'); ?>
 			  			</div>
 			  		</div> 
 			  		
-			  		<div class="col-xs-6 col-sm-3 ">
+			  		<div class="col-xs-6 col-sm-4 col-md-3 ">
 			  	  		<div class="codeExample">
 			  				<a class="lightbox" href="img/1940sGirlLarge.png" data-lightbox-gallery="gallery1"><img src="img/postItPink.png" alt="Vanessa Henson">
 			  				<div class="post-text no-heading">
@@ -73,7 +73,7 @@ include('includes/header.php'); ?>
 			  			</div>
 			  		</div>
 			  		
-			  			<div class="col-xs-6 col-sm-3">
+			  			<div class="col-xs-6 col-sm-4 col-md-3">
 			  	  		<div class="codeExample">
 			  				<a class="lightbox" href="img/banners/axiom.png" data-lightbox-gallery="gallery3"><img src="img/postItPink.png" alt="Vanessa Henson">
 					  				<div class="post-text no-heading"> 
